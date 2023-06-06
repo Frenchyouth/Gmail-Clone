@@ -1,1 +1,3 @@
-# Gmail-Clone
+# npm install
+
+# npm start
